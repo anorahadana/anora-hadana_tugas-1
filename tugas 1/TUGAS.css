@@ -1,0 +1,42 @@
+body {
+    color: rgba(38, 100, 42, 0.653);
+    background: rgb(193, 178, 145);
+}
+.judul{
+     display:contents;
+     background-color: rgb(236, 208, 168);
+     font-family:"preconnect", cursive;
+     }
+.Judul> h2{ 
+     color: rgb(20, 63, 20);
+     }
+.tujuan> h3{
+    color: rgb(82, 133, 37);
+}
+.A{
+    width: 60%;
+    text-align:justify;
+    left: auto;
+    color: chocolate;
+}
+.B{
+    width: 60%;
+    text-align:justify;
+    left: auto;
+    color: rgb(146, 88, 23);
+}
+.C{
+    width: 60%;
+    text-align:justify;
+    left: auto;
+    color: rgb(212, 119, 52);
+}
+.D{
+    width: 60%;
+    text-align: justify;
+    left: auto;
+    color: rgb(109, 56, 16);
+}
+.cara{
+    width: 60%;
+}
